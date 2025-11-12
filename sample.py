@@ -1,4 +1,7 @@
 a=8
 b=70
-sum=a+b
+
+c=9
+sum=a+b+c
+
 print("the sum is:",sum)
